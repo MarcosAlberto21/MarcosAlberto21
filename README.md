@@ -19,9 +19,7 @@
   />
 </p>
 
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IOMQ2ijkKQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+#### PARTICIPACION KCD SPAIN 2021
 
-
+[click para ver repetición ! | see here !](https://youtu.be/IOMQ2ijkKQs)
 
